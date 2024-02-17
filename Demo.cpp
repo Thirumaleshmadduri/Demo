@@ -4,9 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout<<"Hello"<<endl;
-    cout<<"World"<<endl;
-    cout<<"Welcome"<<endl;
-    cout<<"People"<<endl;
-    cout<<"Apple"<<endl;
+    int a=10; b=20;
+    cout<<a+b;
 }
