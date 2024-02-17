@@ -8,4 +8,5 @@ int main()
     cout<<"World"<<endl;
     cout<<"Welcome"<<endl;
     cout<<"People"<<endl;
+    cout<<"Apple"<<endl;
 }
