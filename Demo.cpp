@@ -7,4 +7,5 @@ int main()
     cout<<"Hello"<<endl;
     cout<<"World"<<endl;
     cout<<"Welcome"<<endl;
+    cout<<"People"<<endl;
 }
