@@ -6,5 +6,5 @@ int main()
 {
     cout<<"hello"<<endl;
     cout<<"world"<<endl;
-    cout<<"fruits"<<endl;
+    
 }
