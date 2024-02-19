@@ -8,4 +8,7 @@ int main()
     cout<<"world"<<endl;
     cout<<"Added"<<endl;
     
+    int a=10, b=20;
+    cout<<a+b;
+    cout<<"hello all welcome"<<endl;
 }
