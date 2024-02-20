@@ -13,4 +13,7 @@ int main()
     cout<<"hello all welcome"<<endl;
 
     cout<<"Hello world..............."<<endl;
+    int c = 200, d = 300;
+
+    cout <<"substraction is : "<<c-d;
 }
